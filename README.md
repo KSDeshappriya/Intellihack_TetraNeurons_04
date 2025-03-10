@@ -40,10 +40,7 @@ This project aims to predict the **5-day future closing price** of a stock using
 ├── data
 │   └── question4-stock-data.csv               # data
 ├── docs
-│   ├── odt
-│   │   ├── EDA-Report.odt
-│   │   ├── End-to-End_System_Design-Documentation.odt
-│   │   └── Model-Selection-Documentation.odt
+│   ├── odt/
 │   ├── EDA-Report.pdf
 │   ├── End-to-End_System_Design-Documentation.pdf
 │   └── Model-Selection-Documentation.pdf
