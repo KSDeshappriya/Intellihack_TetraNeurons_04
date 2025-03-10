@@ -39,6 +39,14 @@ This project aims to predict the **5-day future closing price** of a stock using
 │   └── lstm_model.h5                       # Saved LSTM model
 ├── data
 │   └── question4-stock-data.csv               # data
+├── docs
+│   ├── odt
+│   │   ├── EDA-Report.odt
+│   │   ├── End-to-End_System_Design-Documentation.odt
+│   │   └── Model-Selection-Documentation.odt
+│   ├── EDA-Report.pdf
+│   ├── End-to-End_System_Design-Documentation.pdf
+│   └── Model-Selection-Documentation.pdf
 ├── plots
 │   ├── closing_prices.png                  # Historical closing price plot
 │   ├── volume.png                          # Trading volume plot
