@@ -1,5 +1,7 @@
 # Stock Price Prediction Project
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/KSDeshappriya/Intellihack_TetraNeurons_04)
+
 ## 1. Project Overview
 
 This project aims to predict the **5-day future closing price** of a stock using a combination of traditional machine learning models and deep learning methods. The dataset consists of historical stock prices, and the project applies advanced feature engineering and model evaluation techniques.
